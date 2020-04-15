@@ -4,8 +4,8 @@ require_once("lib/telegram_bot.php");
 
 class TestBot extends TelegramBot{
 
-	//protected $token = "";
-	//protected $bot_name = "";
+	protected $token = "1172583246:AAE2O2uSfyaf9k4OR1xO7p67_hzGso8hrtg";
+	//protected $bot_name = "Myfambot";
 	//public $proxy = "tcp://185.93.3.123:8080";
 
 	/**
