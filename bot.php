@@ -5,7 +5,7 @@
  * 
  */
 
-require_once("2.php");
+require_once("3.php");
 
 $bot = new TestBot();
 $bot->replyCommand();
