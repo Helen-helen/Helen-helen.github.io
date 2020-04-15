@@ -1,6 +1,6 @@
 <?php
 
-require_once("lib/telegram_bot.php");
+require_once("telegram_bot.php");
 
 class TestBot extends TelegramBot{
 
